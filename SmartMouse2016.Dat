@@ -1,0 +1,47 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~SmartMouse2016.PrjPcb|ReportField=ProjectFullPath~C:\Users\Keshuai\Documents\SmartMouse2016\SmartMouse2016.PrjPcb|ReportField=Title~Bill of Materials For Project [SmartMouse2016.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~151|ReportField=ReportTime~10:42:07 AM|ReportField=ReportDate~2/22/2016|ReportField=ReportDateTime~2/22/2016 10:42:07 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/22/2016|ReportField=CurrentTime~1:49:45 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Keshuai\Documents\SmartMouse2016\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/22/2016|ReportField=Organization~|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=4.35:XCorrection=1.00:YCorrection=1.00:PrintKind=1:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=7:PrintQuality=-3:MediaType=1:DitherType=10:PrintScaleMode=1:PaperKind=A0:PaperIndex=139|ReportField=ProjectName~SmartMouse2016.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~SmartMouse2016.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Keshuai\Documents\SmartMouse2016\SmartMouse2016.PrjPcb
+1|104|Capacitor|C1_MotorEncoder1, C1_MotorEncoder2, C4_MotorEncoder1, C4_MotorEncoder2, C5_MotorEncoder1, C5_MotorEncoder2, C6_MotorEncoder1, C6_MotorEncoder2, C10_ReflectSensorChannel1, C10_ReflectSensorChannel2, C10_ReflectSensorChannel3, C10_ReflectSensorChannel4, C10_ReflectSensorChannel5, C10_ReflectSensorChannel6|CAP_0805|Cap|14
+2|alu cap from trash >20v||C2, C17|PANASONIC_D|CAP_POLD|2
+3|Cap|Capacitor|C7, C8, C9, C11, C12, C13, C14, C15, C16|CAP_0805|Cap|9
+4|D1|Typical INFRARED GaAs LED|D1_LEDIndicator1, D1_LEDIndicator2, D1_LEDIndicator3|LED_0805_GREEN|LED0|3
+5|3.3V|LED 1206 green|D2, D5|LED_0805_GREEN|LED0|2
+6|5V|LED 1206 green|D3, D4|LED_0805_GREEN|LED0|2
+7|Header 4|Header, 4-Pin|P1_ReflectSensorChannel1, P1_ReflectSensorChannel2, P1_ReflectSensorChannel3, P1_ReflectSensorChannel4, P1_ReflectSensorChannel5, P1_ReflectSensorChannel6|PH_4_PTH|Header 4|6
+8|Encoder|Header, 4-Pin|P2_MotorEncoder1, P2_MotorEncoder2|PH_4_PTH|Header 4|2
+9|Nidec Brushless|Header, 6-Pin|P3_MotorEncoder1, P3_MotorEncoder2|PH_6_PTH|Header 6|2
+10|Pololu|Header, 2-Pin|P5_MotorEncoder1, P5_MotorEncoder2|PH_2_PTH|Header 2|2
+11|VL6180Satellite|Header, 5-Pin|P6_VL61801, P6_VL61802, P6_VL61803, P6_VL61804, P6_VL61805, P6_VL61806|PH_5_PTH|Header 5|6
+12|Header 2|Header, 2-Pin|P7|HX2.54-2|Header 2|1
+13|OLED|Header, 6-Pin|P8|OLEd|Header 6|1
+14|BMO055|Header, 4-Pin|P9|PH_4_PTH|Header 4|1
+15|Wire|Header, 4-Pin|P10|PH_4_PTH|Header 4|1
+16|Wire1|Header, 4-Pin|P11, P12|PH_4_PTH|Header 4|2
+17|ESP8266|Header, 4-Pin|P13|PH_4_PTH|Header 4|1
+18|Header 3|Header, 3-Pin|P14, P15, P16, P17|HDR1X3|Header 3|4
+19|PCA9306|I2C shifting voltage|PCA1|SOIC_E200_8|Component_1_1|1
+20|NMOS|N-Channel MOSFET|Q1_ReflectSensorChannel1, Q1_ReflectSensorChannel2, Q1_ReflectSensorChannel3, Q1_ReflectSensorChannel4, Q1_ReflectSensorChannel5, Q1_ReflectSensorChannel6, Q2_LEDIndicator1, Q2_LEDIndicator2, Q2_LEDIndicator3|SOT23-3|MOSFET-N|9
+21|PMOS|Dual PMOS|Q3|SOIC_E200_8|IRF7316|1
+22|MOSFET-N|N-Channel MOSFET|Q4, Q5|SOT23-3|MOSFET-N|2
+23|R2|Resistor|R1_ReflectSensorChannel1, R1_ReflectSensorChannel2, R1_ReflectSensorChannel3, R1_ReflectSensorChannel4, R1_ReflectSensorChannel5, R1_ReflectSensorChannel6, R2_ReflectSensorChannel1, R2_ReflectSensorChannel2, R2_ReflectSensorChannel3, R2_ReflectSensorChannel4, R2_ReflectSensorChannel5, R2_ReflectSensorChannel6|RES_0805|Res1|12
+24|R3|Resistor|R3_ReflectSensorChannel1, R3_ReflectSensorChannel2, R3_ReflectSensorChannel3, R3_ReflectSensorChannel4, R3_ReflectSensorChannel5, R3_ReflectSensorChannel6|RES_0805|Res1|6
+25|R4|Resistor|R4_MotorEncoder1, R4_MotorEncoder2|RES_0805|Res1|2
+26|R5|Resistor|R5_MotorEncoder1, R5_MotorEncoder2|RES_0805|Res1|2
+27|R6|Resistor|R6_MotorEncoder1, R6_MotorEncoder2|RES_0805|Res1|2
+28|R7|Resistor|R7_LEDIndicator1, R7_LEDIndicator2, R7_LEDIndicator3|RES_0805|Res1|3
+29|R8|Resistor|R8_LEDIndicator1, R8_LEDIndicator2, R8_LEDIndicator3|RES_0805|Res1|3
+30|Res1|Resistor|R9, R13, R14, R16, R17, R18, R19, R20, R26, R27, R28, R29, R31, R34, R35, R36|RES_0805|Res1|16
+31|Res|Resistor|R10, R11, R12, R15, R30|RES_0805|Res1|5
+32|I2C PU|Resistor|R21, R23, R32, R33|RES_0805|Res1|4
+33|I2C PU NP|Resistor|R22, R24|RES_0805|Res1|2
+34|R25|Resistor|R25_VL61801, R25_VL61802, R25_VL61803, R25_VL61804, R25_VL61805, R25_VL61806|RES_0805|Res1|6
+35|SW-SPDT|SPDT Subminiature Toggle Switch, Right Angle Mounting, Vertical Actuation|S1|G3T-12AH|SW-SPDT|1
+36|F1|Switch|S3|ButtonTACT_3x6x2.5_180|SW-PB|1
+37|F2|Switch|S4|ButtonTACT_3x6x2.5_180|SW-PB|1
+38|Reset|Switch|S7|ButtonTACT_3x6x2.5_180|SW-PB|1
+39|SD_Card_TF|SD|SD1|SD_Card_TF|SD_Card_TF|1
+40|Buzzer 12mmSpark Fun Electronics SKU : Comp-Buzzer||SG1|Buzzer_5x5|BUZZERPTH|1
+41|Encoder Voltage||SJ1|PAD-JUMPER-3-2OF3_NC_BY_PASTE_YES_SILK_FULL_BOX|JUMPER-PAD-3-2OF3_NC_BY_PASTE|1
+42|CHERRY-MX-LED||SW1|MX-LED|CHERRY-MX-LED|1
+43|DRV8837|LOW-VOLTAGE H-BRIDGE IC, DSG0008A|U1_MotorEncoder1, U1_MotorEncoder2|DSG0008A|DRV8837DSG|2
+44|FPDK12SR8006PS||U2, U3|FPDK12SR8006|FPDK12SR8006PS|2
+45|ARDUINO-DUE||U4|ARDUINO_DUE|ARDUINO-DUE|1
+46|TPS76928||U5|SOT23-5|TPS76928|1

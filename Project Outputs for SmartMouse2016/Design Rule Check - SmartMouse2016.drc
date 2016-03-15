@@ -1,0 +1,110 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Keshuai\Documents\SmartMouse2016\SmartMouse2016.PcbDoc
+Date     : 2/22/2016
+Time     : 9:21:04 PM
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (InNetClass('All Nets'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (InPolygon),(InPolygon)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=25.375mm) (Preferred=0.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.33mm) (Max=6mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.076mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=2mm) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Room LEDIndicator1 (Bounding Region = (38.92mm, 25.1mm, 47.92mm, 28.9mm) (InComponentClass('LEDIndicator1'))
+Rule Violations :0
+
+Processing Rule : Room LEDIndicator2 (Bounding Region = (47.92mm, 25.1mm, 56.92mm, 28.9mm) (InComponentClass('LEDIndicator2'))
+Rule Violations :0
+
+Processing Rule : Room LEDIndicator3 (Bounding Region = (29.92mm, 25.1mm, 38.92mm, 28.9mm) (InComponentClass('LEDIndicator3'))
+Rule Violations :0
+
+Processing Rule : Room ReflectSensorChannel1 (Bounding Region = (29.92mm, 69.3mm, 41.32mm, 76.6mm) (InComponentClass('ReflectSensorChannel1'))
+Rule Violations :0
+
+Processing Rule : Room ReflectSensorChannel2 (Bounding Region = (29.92mm, 62.3mm, 41.32mm, 69.6mm) (InComponentClass('ReflectSensorChannel2'))
+Rule Violations :0
+
+Processing Rule : Room ReflectSensorChannel3 (Bounding Region = (29.92mm, 55.3mm, 41.32mm, 62.6mm) (InComponentClass('ReflectSensorChannel3'))
+Rule Violations :0
+
+Processing Rule : Room ReflectSensorChannel4 (Bounding Region = (29.92mm, 48.3mm, 41.32mm, 55.6mm) (InComponentClass('ReflectSensorChannel4'))
+Rule Violations :0
+
+Processing Rule : Room ReflectSensorChannel5 (Bounding Region = (29.92mm, 41.3mm, 41.32mm, 48.6mm) (InComponentClass('ReflectSensorChannel5'))
+Rule Violations :0
+
+Processing Rule : Room ReflectSensorChannel6 (Bounding Region = (29.92mm, 34.3mm, 41.32mm, 41.6mm) (InComponentClass('ReflectSensorChannel6'))
+Rule Violations :0
+
+Processing Rule : Room VL61801 (Bounding Region = (62.42mm, 44mm, 74.82mm, 50.1mm) (InComponentClass('VL61801'))
+Rule Violations :0
+
+Processing Rule : Room VL61802 (Bounding Region = (62.42mm, 50mm, 74.82mm, 56.1mm) (InComponentClass('VL61802'))
+Rule Violations :0
+
+Processing Rule : Room VL61803 (Bounding Region = (62.42mm, 56mm, 74.82mm, 62.1mm) (InComponentClass('VL61803'))
+Rule Violations :0
+
+Processing Rule : Room VL61804 (Bounding Region = (62.42mm, 62mm, 74.82mm, 68.1mm) (InComponentClass('VL61804'))
+Rule Violations :0
+
+Processing Rule : Room VL61805 (Bounding Region = (62.42mm, 68mm, 74.82mm, 74.1mm) (InComponentClass('VL61805'))
+Rule Violations :0
+
+Processing Rule : Room VL61806 (Bounding Region = (62.42mm, 74mm, 74.82mm, 80.1mm) (InComponentClass('VL61806'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.178mm) (All)
+Rule Violations :0
+
+Processing Rule : Room MotorEncoder1 (Bounding Region = (42.92mm, 46.1mm, 60.22mm, 58.1mm) (InComponentClass('MotorEncoder1'))
+Rule Violations :0
+
+Processing Rule : Room MotorEncoder2 (Bounding Region = (42.92mm, 34.1mm, 60.22mm, 46.1mm) (InComponentClass('MotorEncoder2'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.4mm) (inPolygon),(OnLayer('Keep-Out Layer'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:10

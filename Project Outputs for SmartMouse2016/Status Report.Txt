@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SmartMouse2016.PrjPcb]
+   Generated File[SmartMouse2016.TXT]
+   Generated File[SmartMouse2016.LDP]
+   Generated File[SmartMouse2016.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:37:52 PM On 2/22/2016
